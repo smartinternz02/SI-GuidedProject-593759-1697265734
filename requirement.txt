@@ -1,0 +1,8 @@
+Package                          Version
+-------------------------------- ---------------------
+numpy                            1.23.5
+pandas                           1.5.3
+seaborn                          0.12.2
+matplotlib                       3.7.1
+sklearn-pandas                   2.2.0
+pickleshare                      0.7.5
